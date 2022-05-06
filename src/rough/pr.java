@@ -10,6 +10,9 @@ public class pr {
 		System.out.println(s);
 		String ss="Ashish";
 		System.out.println(ss);
+		
+		String s5="ruksana";
+		System.out.println(s5);
 	}
 
 }
