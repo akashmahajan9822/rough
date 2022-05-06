@@ -8,6 +8,8 @@ public class pr {
 		
 		String s="Akash";
 		System.out.println(s);
+		String ss="Ashish";
+		System.out.println(ss);
 	}
 
 }
