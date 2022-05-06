@@ -11,8 +11,8 @@ public class pr {
 		String ss="Ashish";
 		System.out.println(ss);
 		
-		String s1="Akshad";
-		System.out.println(s1);
+		String s5="ruksana";
+		System.out.println(s5);
 	}
 
 }
